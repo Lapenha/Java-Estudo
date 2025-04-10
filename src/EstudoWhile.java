@@ -13,6 +13,7 @@ public class EstudoWhile {
             System.out.println(j); j++;
         
        } while (j < 6);
+       //x
     }
     
 }
