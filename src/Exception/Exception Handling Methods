@@ -1,0 +1,28 @@
+try -> usado para especificar um bloco que deveriamos colocar uma execao
+try{
+    //code tha throws exceptions
+    }catch(Exception_class_Name){}
+    pode ser nested
+
+
+catch
+
+---
+try{
+}catch (exception1) {}
+catch (exeption2) {}
+
+finally -> executa um codigo importante do programa
+try{
+}catch (e1){
+}catch (e2)
+}finally{
+//sempre sera executado
+}
+
+throw -> joga uma excecao
+void a(){
+throw new ArithmeticException("Incorrect");}
+
+throws -> declara excecoes
+void a()throws ArithmeticException{}
