@@ -1,18 +1,43 @@
-## Getting Started 
+# 🧠 Java Estudo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto de estudos em Java com exemplos práticos sobre lambdas, herança, exceções, tipos de parâmetros, e mais.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🚀 Primeiros Passos
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Bem-vindo ao mundo Java no VS Code! Este repositório contém exemplos e arquivos para praticar e testar conceitos fundamentais de Java.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+## 📦 Gerenciamento de Dependências
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Caso use Maven ou Gradle, as dependências podem ser gerenciadas automaticamente. Este projeto não utiliza gerenciador de dependências no momento, mas você pode configurar isso facilmente com um `pom.xml` ou `build.gradle`.
+
+---
+
+## ⚙️ Customização
+
+Você pode personalizar a estrutura de pastas alterando o arquivo `.vscode/settings.json` conforme necessário.
+
+---
+
+## 🧩 Extensões Recomendadas
+
+- [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+- [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
+- [Language Support for Java(TM) by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+
+---
+
+## 📚 Objetivo
+
+Este repositório foi criado com o intuito de **praticar conceitos essenciais da linguagem Java** para reforço acadêmico e profissional. Os exemplos aqui podem ser reutilizados, adaptados e incrementados.
+
+---
+
+## 🛠️ Como Rodar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/Java-Estudo.git
